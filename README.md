@@ -48,6 +48,12 @@ En cada proyecto busco mostrar el proceso completo:
 5. Interpretar los resultados de manera clara.
 6. Identificar limitaciones y posibles mejoras.
 
+## Planificación del portafolio
+
+La elección del repositorio, sus características, las buenas prácticas aplicadas y las mejoras incorporadas están reunidas en el siguiente documento:
+
+[Ver planificación y buenas prácticas](./documentacion/planificacion-y-buenas-practicas.md)
+
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/lorna-bravo/)
