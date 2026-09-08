@@ -1,58 +1,58 @@
 # Portafolio de Análisis de Datos 📊
 
-¡Hola! Soy Lorna 👋
+¡Hola! Soy Lorna Bravo 👋
 
-Este repositorio reúne mis proyectos de **análisis de datos**, desarrollados con foco en transformar información en hallazgos útiles para comprender problemas, responder preguntas y apoyar la toma de decisiones.
+Soy analista de datos en formación y me interesa transformar datos en información clara, útil y accionable. En este portafolio reúno proyectos que muestran mi proceso de aprendizaje y la manera en que abordo problemas reales: desde la preparación de los datos hasta la interpretación de resultados.
 
-Trabajo principalmente con **Python, SQL, PySpark y Machine Learning**, aplicando distintas etapas del proceso analítico: desde la limpieza y exploración de datos hasta la interpretación y comunicación de resultados.
+Trabajo principalmente con **Python, SQL, PySpark y Machine Learning**. Mi foco está en desarrollar análisis que puedan entenderse tanto desde lo técnico como desde su utilidad para la toma de decisiones.
 
-## ¿Qué encontrarás aquí?
+## Sobre mí
 
-A medida que avance el portafolio, iré incorporando proyectos que incluyan:
-
-- Limpieza y preparación de datos.
-- Análisis exploratorio de datos (EDA).
-- Consultas y análisis con SQL.
-- Procesamiento de datos con Python y PySpark.
-- Análisis estadístico e inferencia.
-- Modelos de Machine Learning.
-- Visualización e interpretación de resultados.
-- Resolución de problemas con una mirada orientada a negocio.
+Mi experiencia combina el análisis de información con una mirada orientada a negocio y comunicación. Me interesa seguir creciendo en roles relacionados con análisis de datos, inteligencia de negocios y modelos predictivos, donde pueda convertir preguntas concretas en hallazgos que ayuden a tomar mejores decisiones.
 
 ## Tecnologías y herramientas
 
-- **Python**
-- **SQL**
-- **PySpark**
-- **Machine Learning**
-- **Análisis estadístico**
-- **Visualización de datos**
-
-## Mi enfoque
-
-Más que mostrar código, quiero que cada proyecto explique el proceso completo: **qué problema se busca resolver, cómo se trabajaron los datos, qué decisiones se tomaron durante el análisis y qué conclusiones se pueden obtener**.
-
-La idea es que cada proyecto pueda entenderse tanto desde el punto de vista técnico como desde su utilidad práctica.
+- **Python:** Pandas, análisis exploratorio y preparación de datos.
+- **SQL:** consultas, filtros, agregaciones y análisis de bases de datos.
+- **PySpark:** procesamiento de datos y pipelines de Machine Learning.
+- **Machine Learning:** preparación de variables, entrenamiento y evaluación de modelos.
+- **Estadística:** análisis descriptivo, inferencia y pruebas de hipótesis.
+- **Visualización:** comunicación clara de resultados y hallazgos.
 
 ## Proyectos
 
-> 🚧 **Portafolio en construcción.**
->
-> Iré agregando nuevos proyectos y análisis a este repositorio a medida que avance en mi formación y desarrollo profesional.
+### Modelo predictivo de transacciones con PySpark
 
-Cada proyecto contará con su propia documentación, incluyendo cuando corresponda:
+Modelo de clasificación binaria desarrollado con PySpark MLlib para identificar transacciones potencialmente riesgosas en un conjunto de ventas simuladas.
 
-1. Contexto y objetivo.
-2. Descripción de los datos.
-3. Metodología utilizada.
-4. Código y análisis.
-5. Principales resultados.
-6. Conclusiones y aprendizajes.
+El proyecto incluye limpieza y transformación de datos, creación de variables, una pipeline reproducible, entrenamiento con regresión logística y evaluación del modelo.
 
-## Objetivo del portafolio
+| Métrica | Resultado |
+|---|---:|
+| Accuracy | 83,33 % |
+| AUC | 0,8908 |
+| F1-score | 0,8333 |
 
-Este espacio busca mostrar mi evolución en análisis de datos y reunir, de manera ordenada, proyectos en los que pueda aplicar conocimientos técnicos a situaciones concretas.
+**Tecnologías:** Python, Apache Spark, PySpark SQL, MLlib, Pandas y Google Colab.
+
+[Ver proyecto y documentación](./proyectos/modelo-predictivo-spark/) · [Abrir notebook](./proyectos/modelo-predictivo-spark/modelo_predictivo_spark.ipynb) · [Abrir en Google Colab](https://colab.research.google.com/drive/1FI36XbXFQa1W624Pe0IBBR-_kQcq_H2n?authuser=2)
+
+## Mi forma de trabajar
+
+En cada proyecto busco mostrar el proceso completo:
+
+1. Comprender el problema y definir el objetivo.
+2. Explorar, limpiar y preparar los datos.
+3. Elegir una metodología coherente con la pregunta.
+4. Desarrollar y evaluar la solución.
+5. Interpretar los resultados de manera clara.
+6. Identificar limitaciones y posibles mejoras.
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/lorna-bravo/)
+- [GitHub](https://github.com/LornaBravo)
 
 ---
 
-**GitHub:** [LornaBravo](https://github.com/LornaBravo)
+Este portafolio seguirá creciendo junto con mi formación y experiencia en análisis de datos.
